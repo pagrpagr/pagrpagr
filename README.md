@@ -1,5 +1,14 @@
-### Hi there 👋
+### hey there 👋
 
+📟 i'm pagr, a high school student into tech and videography!
+
+📼 making video essays, sometimes i share them
+
+👨🏼‍💻 learning to *actually* code
+
+🚧 working on my website
+
+🌐 [youtube](https://www.youtube.com/@pagrvideo) [discord](https://discordapp.com/users/969129892614660096) [mastodon](https://mastodon.social/@hrv)
 <!--
 **pagrpagr/pagrpagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
