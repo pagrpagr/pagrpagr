@@ -1,6 +1,9 @@
-### hey there 👋
+### 👋 hey there, i'm pagr!
 
-📟 i'm pagr, a high school student into tech and videography!
+#### 📝 a bit about me and what i'm doing:
+- 🏫 i'm a high school student
+
+- 📟 tech enthusiast
 
 - 📼 making video essays, sometimes i share them
 
