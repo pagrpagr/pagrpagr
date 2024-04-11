@@ -1,4 +1,7 @@
-### 📟 hey there, i'm pagr!
+- 👋 hey there, i’m pagr! a few things about me:
+- 🏫 i'm a high school student interested in tech, videography, and the internet.
+- 🚧 i'm currently learning to (actually) code, working on my website and making more video essays. i'll share them some time.
+
 <!--
 **pagrpagr/pagrpagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
