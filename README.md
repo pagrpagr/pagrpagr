@@ -1,9 +1,18 @@
-- 👋 hey there, i’m pagr! a few things about me:
-- 🏫 i'm a high school student interested in tech, videography, and the internet.
-- 🚧 i'm currently learning to (actually) code, working on my website and making more video essays. i'll share them some time.
+ ```
+    ________    ________    ________    ________  
+   /        \  /        \  /        \  /        \
+  /         / /         / /       __/ /         /
+/       __/ /         / /       / / /        _/ 
+\______/    \___/____/  \________/  \____/___/
+```
+👋 **hi there, i'm pagr!** see more about me [here](https://hydr.in/3rwq).
 
 <!--
 **pagrpagr/pagrpagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 👋 hey there, i’m pagr! a few things about me:
+- 🏫 i'm a high school student interested in tech, videography, and the internet.
+- 🚧 i'm currently learning to (actually) code, working on my website and making more video essays. i'll share them some time.
 
 Here are some ideas to get you started:
 
