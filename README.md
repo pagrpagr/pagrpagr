@@ -5,7 +5,7 @@
 /       __/ /         / /       / / /        _/ 
 \______/    \___/____/  \________/  \____/___/
 ```
-👋 **hi there, i'm pagr!** see more about me [here](https://pagr.pika.page/).
+👋 **hi there, i'm pagr!** see more about me [here](https://no.idea/).
 
 <!--
 **pagrpagr/pagrpagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
